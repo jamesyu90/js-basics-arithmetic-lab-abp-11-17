@@ -1,4 +1,4 @@
-/*
+const newID = 'James';/*
 Variables defined in the test suite:
 - oldID
 - currentAge
